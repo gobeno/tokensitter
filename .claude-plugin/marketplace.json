@@ -1,0 +1,19 @@
+{
+  "name": "tokensitter",
+  "description": "Tokensitter for Claude Code: see what your Claude work really costs and what you could save.",
+  "owner": {
+    "name": "Tokensitter"
+  },
+  "plugins": [
+    {
+      "name": "tokensitter",
+      "description": "See what your Claude work really costs and what you could save. Reads local logs only; nothing leaves your Mac.",
+      "version": "0.22.1",
+      "source": {
+        "source": "archive",
+        "url": "https://tokensitter.com/plugin/tokensitter-0.22.1.zip",
+        "sha256": "46ef15a64ac2c8365214cd478762b2298cb401726850113a3ad469f07695b24d"
+      }
+    }
+  ]
+}
